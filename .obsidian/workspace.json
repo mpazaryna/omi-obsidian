@@ -8,18 +8,23 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fe0bd1a96603b604",
+            "id": "81658ec4b66bd990",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "readme.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "e7e0d4116a1922b2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "readme.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,6 +147,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe0bd1a96603b604",
-  "lastOpenFiles": []
+  "active": "e7e0d4116a1922b2",
+  "lastOpenFiles": [
+    "90-personal/91-kirk/Kirk Azevedo.md",
+    "90-personal/93-mark/Mark McCormick.md",
+    "90-personal/92-matthew/Matthew Pazaryna.md",
+    "00-inbox/setting-up-a-new-vault.md",
+    "readme.md",
+    "30-obsidian/Untitled.md"
+  ]
 }
