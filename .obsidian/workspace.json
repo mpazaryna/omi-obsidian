@@ -22,9 +22,81 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "c1610417510f6023",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "90-personal/92-matthew/92.00-inbox/readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f7ed615361a8a924",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "90-personal/92-matthew/92.20-creations/readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d75fa139152454ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "90-personal/92-matthew/92.20-creations/readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d7307133ac80c774",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "90-personal/92-matthew/92.30-obsidian/_readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1874273887eac917",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "90-personal/92-matthew/92.20-creations/stock_selection_strategies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e9b9d328d0a4475",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "90-personal/92-matthew/92.20-creations/data_and_research_info.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -90,6 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "90-personal/92-matthew/92.20-creations/data_and_research_info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "90-personal/92-matthew/92.20-creations/data_and_research_info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +201,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "90-personal/92-matthew/92.20-creations/data_and_research_info.md"
+              }
             }
           }
         ]
@@ -147,13 +223,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7e0d4116a1922b2",
+  "active": "5e9b9d328d0a4475",
   "lastOpenFiles": [
+    "90-personal/92-matthew/92.20-creations/stock_selection_strategies.md",
+    "90-personal/92-matthew/92.20-creations/data_and_research_info.md",
+    "90-personal/92-matthew/92.20-creations/readme.md",
+    "90-personal/92-matthew/Untitled.md",
+    "90-personal/92-matthew/92.00-inbox/readme.md",
+    "90-personal/92-matthew/92.30-obsidian/_readme.md",
     "90-personal/91-kirk/Kirk Azevedo.md",
     "90-personal/93-mark/Mark McCormick.md",
     "90-personal/92-matthew/Matthew Pazaryna.md",
-    "00-inbox/setting-up-a-new-vault.md",
-    "readme.md",
-    "30-obsidian/Untitled.md"
+    "00-inbox/setting-up-a-new-vault.md"
   ]
 }
