@@ -5,13 +5,6 @@ date created: 2023-02-10
 date modified: 2023-02-10
 ---
 
----
-aliases: 
-tags: 
-date created: 2023-01-16
-date modified: 2023-02-10
----
-
 [Document from Kirk](https://docs.google.com/document/d/13tmqGnQLi0jEQhpqFyCzmeahGkTUReOH0DOEOatsDOo/edit)
 [Kirk Azevedo](https://doctor.webmd.com/doctor/kirk-azevedo-0321e530-3f0e-4b23-bd72-9885676e1d89-overview)
 
