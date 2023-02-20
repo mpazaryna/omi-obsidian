@@ -1,8 +1,8 @@
 ---
 aliases: 
 tags: 
-date created: Sunday, February 5th 2023, 8:16:19 pm
-date modified: Sunday, February 5th 2023, 8:23:06 pm
+date created: 2023-02-05
+date modified: 2023-02-18
 ---
 ## The Johnny Decimal System
 

@@ -4,83 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "97caecbf0a5e2098",
+        "id": "73a510c0784fea93",
         "type": "tabs",
         "children": [
           {
-            "id": "d7307133ac80c774",
+            "id": "9db3520daa8866b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "90-personal/92-matthew/92.30-obsidian/_readme.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1874273887eac917",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "90-personal/92-matthew/92.20-creations/stock_selection_strategies.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e9b9d328d0a4475",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "90-personal/92-matthew/92.20-creations/data_and_research_info.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dc536daaac42b2f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "90-personal/92-matthew/92.00-inbox/psychedelic-fundamentals-course.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e9b531642e4749ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "90-personal/92-matthew/92.00-inbox/initial-meeting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e661128aa0cf5116",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "90-personal/92-matthew/92.00-inbox/initial-meeting.md",
+                "file": "00-inbox/setting-up-a-new-vault.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 383.5
+    "width": 298.5
   },
   "right": {
     "id": "7a75dfae10864934",
@@ -146,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "90-personal/92-matthew/92.00-inbox/initial-meeting.md",
+                "file": "00-inbox/setting-up-a-new-vault.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "90-personal/92-matthew/92.00-inbox/initial-meeting.md",
+                "file": "00-inbox/setting-up-a-new-vault.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "90-personal/92-matthew/92.00-inbox/initial-meeting.md"
+                "file": "00-inbox/setting-up-a-new-vault.md"
               }
             }
           }
@@ -207,17 +146,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e661128aa0cf5116",
+  "active": "9db3520daa8866b8",
   "lastOpenFiles": [
-    "90-personal/92-matthew/92.00-inbox/multidisciplinary-association-for-psychedelic-studies.md",
+    "40-education/psychedelic-fundamentals-course.md",
+    "60-strategies/data_and_research_info.md",
+    "60-strategies/stock_selection_strategies.md",
+    "50-tech/stock-api.md",
+    "80-moc/dataviews.md",
+    "80-moc/strategies.md",
+    "80-moc/companies.md",
+    "60-strategies",
+    "90-personal/92-matthew/Matthew Pazaryna.md",
+    "10-companies/havlf.md",
+    "10-companies/ehave.md",
+    "10-companies/delcf.md",
+    "10-companies/flubby.md",
+    "50-tech",
+    "30-orgs/maps.md",
+    "40-education",
+    "30-orgs",
     "90-personal/92-matthew/92.00-inbox/readme.md",
-    "90-personal/92-matthew/92.00-inbox/initial-meeting.md",
-    "90-personal/92-matthew/92.00-inbox/psychedelic-fundamentals-course.md",
-    "90-personal/92-matthew/92.20-creations/data_and_research_info.md",
-    "90-personal/92-matthew/Untitled.md",
-    "90-personal/92-matthew/92.20-creations/stock_selection_strategies.md",
-    "90-personal/92-matthew/92.20-creations/readme.md",
     "90-personal/92-matthew/92.30-obsidian/_readme.md",
+    "00-inbox/setting-up-a-new-vault.md",
+    "80-moc",
+    "90-personal/92-matthew/92.00-inbox/initial-meeting.md",
+    "90-personal/92-matthew/92.30-obsidian/dataview-1.md",
+    "90-personal/92-matthew/92.30-obsidian/dataview-2.md",
+    "10-companies",
+    "00-inbox/Untitled",
+    "readme.md",
+    "90-personal/92-matthew/Untitled.md",
+    "90-personal/92-matthew/92.20-creations/readme.md",
     "90-personal/91-kirk/Kirk Azevedo.md"
   ]
 }

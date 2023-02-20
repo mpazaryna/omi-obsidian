@@ -26,13 +26,13 @@ date modified: 2023-02-10
 
 ## Current resources:  
 
-- OMI dashboard, 
+- [OMI dashboard](https://bit.ly/416ywN8) 
 - social media
 - IG 
 - Twitter, silos to publish to
 
 
-# GOALS for Next Meeting:
+## GOALS for Next Meeting:
 
 - What do we want to be?
 - OMI spreadsheet intro to acquaint Matthew 
