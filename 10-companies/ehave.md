@@ -3,7 +3,8 @@ aliases: EHAVE, Inc.
 type: company
 symbol: EHAVE
 url: www.ehave.com
-tags: software
+tags: software, extraction, store
+supply-chain: manu
 date created: 2023-02-18
 date modified: 2023-02-19
 ---

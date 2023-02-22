@@ -1,7 +1,7 @@
 ---
 aliases: Psychedelic Fundamentals
 type: education
-tags: omi/course
+tags: course
 date: 2023-01-09
 ---
 

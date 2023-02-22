@@ -1,7 +1,7 @@
 ---
 aliases:
 type: education
-tags: 
+tags: strategy
 date created: 2023-02-08
 date modified: 2023-02-08
 ---

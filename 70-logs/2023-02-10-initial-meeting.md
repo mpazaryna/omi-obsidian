@@ -10,7 +10,7 @@ date modified: 2023-02-10
 
 - How to monetize our knowledge base in the psychedelics space?
 - Right people with complete skill sets.
-- Computer savvy
+- Computer #savvy
 - Psychedelic genome project
 - Objective drives the tools, and tools drive the output to something marketable.
 - Obsidian is the knowledge base and publish to substack, twitter, etc.
