@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "540d8b85db9895dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20-people/albert_hoffman.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20-people/albert_hoffman.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20-people/albert_hoffman.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "20-people/albert_hoffman.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -161,8 +144,8 @@
   },
   "active": "fa5261c9ac58da2f",
   "lastOpenFiles": [
-    "10-companies/delcf.md",
     "20-people/albert_hoffman.md",
+    "10-companies/delcf.md",
     "50-tech/stock-api.md",
     "10-companies/ehave.md",
     "80-moc/dataviews.md",
