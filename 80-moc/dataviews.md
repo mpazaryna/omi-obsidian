@@ -18,6 +18,17 @@ where type="company"
 sort file.ctime desc  
 ```
 
+Type: Organizations
+
+```dataview  
+table aliases, url
+from "30-orgs"  
+where type="organization"
+sort file.ctime desc  
+```
+
+
+
 ## Tag: Software
 
 ```dataview  

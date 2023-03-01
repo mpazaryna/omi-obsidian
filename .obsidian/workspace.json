@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "1f15fb2f79188299",
+    "id": "34b4699e885cf397",
     "type": "split",
     "children": [
       {
-        "id": "73a510c0784fea93",
+        "id": "2133cd86a7e5d1ab",
         "type": "tabs",
         "children": [
           {
-            "id": "9db3520daa8866b8",
+            "id": "0b512b2db7d16834",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10-companies/delcf.md",
+                "file": "readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c360d9466f503a64",
+    "id": "45fef272d0c9bfc9",
     "type": "split",
     "children": [
       {
-        "id": "edb404bccc192591",
+        "id": "a7a2e5902f9ec3dd",
         "type": "tabs",
         "children": [
           {
-            "id": "fa5261c9ac58da2f",
+            "id": "7282f9e97429b524",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,12 +43,12 @@
             }
           },
           {
-            "id": "423b379089da791b",
+            "id": "00d4e7cf163834ac",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#people",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "2bbf68621c2d24ec",
+            "id": "de9dd4478e1c8d96",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -69,22 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 300
   },
   "right": {
-    "id": "7a75dfae10864934",
+    "id": "0b4372e5615fade7",
     "type": "split",
     "children": [
       {
-        "id": "57b812a79dea79be",
+        "id": "e123d02c4db57cfc",
         "type": "tabs",
         "children": [
           {
-            "id": "07bab54ec3205125",
+            "id": "6e5ff76b2d5d6966",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,18 +97,19 @@
             }
           },
           {
-            "id": "4905485330203b3d",
+            "id": "04b3ddaf7dec5edb",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "6ef1290af7dde172",
+            "id": "55fa1a2cc7262273",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -118,19 +120,21 @@
             }
           },
           {
-            "id": "7454cd45fc543640",
+            "id": "98a269ab508378dd",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "readme.md"
+              }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -142,41 +146,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa5261c9ac58da2f",
+  "active": "0b512b2db7d16834",
   "lastOpenFiles": [
+    "20-people/tim_ferris.md",
+    "20-people/rick_doblin.md",
+    "20-people/kevin_o_leary.md",
     "20-people/albert_hoffman.md",
-    "10-companies/delcf.md",
-    "50-tech/stock-api.md",
-    "10-companies/ehave.md",
     "80-moc/dataviews.md",
-    "70-logs/2023-02-10-initial-meeting.md",
-    "60-strategies/stock_selection_strategies.md",
-    "60-strategies/data_and_research_info.md",
-    "40-education/psychedelic-fundamentals-course.md",
-    "10-companies/havlf.md",
+    "30-orgs/field_trip_ventures.md",
+    "30-orgs/psychedelic_investing_podcast.md",
+    "30-orgs/psychedelic_science_review.md",
+    "30-orgs/the_third_wave.md",
+    "30-orgs/neuly.md",
     "80-moc/companies.md",
-    "90-personal/92-matthew/Matthew Pazaryna.md",
-    "20-people/readme.md",
-    "20-people",
-    "70-logs",
-    "00-inbox/setting-up-a-new-vault.md",
-    "80-moc/strategies.md",
-    "60-strategies",
-    "10-companies/flubby.md",
-    "50-tech",
     "30-orgs/maps.md",
-    "40-education",
-    "30-orgs",
-    "90-personal/92-matthew/92.00-inbox/readme.md",
-    "90-personal/92-matthew/92.30-obsidian/_readme.md",
-    "80-moc",
-    "90-personal/92-matthew/92.30-obsidian/dataview-1.md",
-    "90-personal/92-matthew/92.30-obsidian/dataview-2.md",
-    "10-companies",
-    "00-inbox/Untitled",
-    "readme.md",
-    "90-personal/92-matthew/Untitled.md",
-    "90-personal/92-matthew/92.20-creations/readme.md",
-    "90-personal/91-kirk/Kirk Azevedo.md"
+    "90-personal/92-matthew/92.00-inbox/ai suggested people to follow.md",
+    "90-personal/92-matthew/Matthew Pazaryna.md"
   ]
 }
